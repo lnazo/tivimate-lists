@@ -1,12 +1,24 @@
 # TiviMate playlists
 
-Small, tested M3U playlists for Android TV. Every stream was checked and
-answered before being added.
+Small, tested M3U playlists for Android TV. Every stream answered when tested
+before being added.
 
-Channels come mostly from the iptv-org project and the free streaming services (Pluto TV,
-Samsung TV Plus, LG Channels, Vidaa, Xumo and similar).
+Channels come mostly from the iptv-org project and free services such as Pluto TV, Samsung TV
+Plus, LG Channels, Vidaa and Xumo.
 
-## Playlists
+## One address for everything
+
+All 242 channels in one file, split into 12 groups.
+
+```
+https://raw.githubusercontent.com/lnazo/tivimate-lists/main/combined.m3u
+```
+
+Short form: `https://is.gd/lubatv`
+
+In TiviMate: Add playlist, M3U playlist, paste, Next.
+
+## Separate lists
 
 | File | Channels | Content |
 |---|---|---|
@@ -24,20 +36,15 @@ Samsung TV Plus, LG Channels, Vidaa, Xumo and similar).
 | `music.m3u` | 16 | Music |
 | `everything.m3u` | 143 | All the genre lists combined |
 
-## How to use
+## About the TV guide
 
-In TiviMate: Add playlist, M3U playlist, paste one of these:
+The files carry no EPG link on purpose. Free guide sources use different
+channel IDs from these playlists, so the guide would either stay blank or show
+the wrong programme. Wrong data is worse than none.
 
-```
-https://raw.githubusercontent.com/lnazo/tivimate-lists/main/news.m3u
-https://raw.githubusercontent.com/lnazo/tivimate-lists/main/south-africa.m3u
-```
-
-Swap the last part for any file name above.
-
-Each file carries its own guide (EPG) link in the header, so TiviMate picks up
-the TV guide automatically.
+Channels play normally, the guide row will be mostly empty. You can add a guide
+by hand in TiviMate and it will match whatever it can.
 
 ## Note
 
-Free streams rot. If channels stop working the file needs rebuilding.
+Free streams rot. When channels stop working the files need rebuilding.

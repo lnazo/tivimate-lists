@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
+#EXTM3U
 # mexico - filtered live-checked list
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Mexico",Las Estrellas

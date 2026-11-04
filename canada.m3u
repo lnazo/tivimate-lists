@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
+#EXTM3U
 # canada - filtered live-checked list
 
 #EXTINF:-1 tvg-id="6536725167bd1a00084481bc" tvg-name="CBC News" tvg-logo="https://images.pluto.tv/channels/6536725167bd1a00084481bc/colorLogoPNG_1731835269288.png" group-title="Canada",CBC News

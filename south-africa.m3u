@@ -1,6 +1,4 @@
 #EXTM3U
-# South Africa - filtered live-checked list
-
 #EXTINF:-1 tvg-id="FaithAfrica.za@SD" tvg-name="Faith Africa" tvg-logo="https://i.imgur.com/yAZE7aU.png" group-title="Religious",Faith Africa
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelAfrica.za@SD" tvg-name="Hope Channel Africa" tvg-logo="https://i.imgur.com/SFacyYO.png" group-title="Religious",Hope Channel Africa

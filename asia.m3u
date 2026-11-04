@@ -1,6 +1,4 @@
 #EXTM3U
-# asia - filtered live-checked list
-
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="Asia",KBS World
 https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-name="Arirang TV HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Asia",Arirang TV HD

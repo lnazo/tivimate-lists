@@ -1,69 +1,92 @@
 # TiviMate playlists
 
-Small, tested M3U playlists for Android TV. Every stream answered when tested
-before being added. Secure (https) streams only: Android TV apps often refuse
-plain http streams, so those channels would list but not play.
+Free TV channels for Android TV. The lists are made for the TiviMate app.
 
-Channels come mostly from the iptv-org project and free services such as Pluto TV, Samsung TV
-Plus, LG Channels, Vidaa and Xumo.
+- Every channel was tested before it was added.
+- Most channels come from the iptv-org project and from free services such as
+  Pluto TV, Samsung TV Plus, LG Channels, Vidaa and Xumo.
+- Every link is a secure (https) link. Many Android TV apps block normal (http)
+  links. The channel then shows in the list, but it does not play.
 
-## One address for everything
+## How to add the channels
 
-All 215 channels in one file, split into 12 groups.
+This one address has all 215 channels, sorted into 12 groups:
 
 ```
 https://cdn.jsdelivr.net/gh/lnazo/tivimate-lists@main/combined.m3u
 ```
 
-Mirror, same file:
+In TiviMate:
+
+1. Choose **Add playlist**.
+2. Choose **M3U playlist**.
+3. Type or paste the address above.
+4. Choose **Next**.
+
+If the first address does not work, use this backup address. It is the same
+file:
 
 ```
 https://raw.githubusercontent.com/lnazo/tivimate-lists/main/combined.m3u
 ```
 
-In TiviMate: Add playlist, M3U playlist, paste, Next.
+Please do not use a short link (for example bit.ly or is.gd). Some apps read
+the short link page instead of the real file, and then show only one channel.
 
-Do not use a URL shortener. Some players read the redirect page instead of the
-file behind it and end up with one channel.
+## Only one channel shows
 
-## If only one channel shows
-
-Try `test.m3u` first, it has 3 channels only:
+First test with a small list. It has only 3 channels: Al Jazeera English,
+SABC 1 and KBS World.
 
 ```
 https://cdn.jsdelivr.net/gh/lnazo/tivimate-lists@main/test.m3u
 ```
 
-Al Jazeera English, SABC 1, KBS World. If that shows 3, the app is fine and the
-big file is the problem.
+- **3 channels show:** the app works. The problem is with the big list.
+- **Only 1 channel shows:** the problem is with the app. Remove TiviMate,
+  install it again, then add the list again.
 
-## Separate lists
+## Smaller lists
 
-| File | Channels | Content |
+Do you only want some of the channels? Use one of these lists. Take the main
+address and change `combined.m3u` to the file name you want.
+
+For example, for South African channels only:
+
+```
+https://cdn.jsdelivr.net/gh/lnazo/tivimate-lists@main/south-africa.m3u
+```
+
+| File | Channels | What is in it |
 |---|---|---|
 | `news.m3u` | 26 | World news in English |
-| `south-africa.m3u` | 17 | South Africa, SABC included |
-| `us.m3u` | 28 | US networks and free channels |
+| `south-africa.m3u` | 17 | South African channels, with SABC |
+| `us.m3u` | 28 | American channels |
 | `canada.m3u` | 21 | CBC, Global, CTV, Radio-Canada |
 | `mexico.m3u` | 15 | Las Estrellas, Azteca UNO, Canal Once, Imagen TV |
-| `asia.m3u` | 30 | Korea, Japan, HK, Taiwan, Singapore, PH, ID, VN, TH, India |
+| `asia.m3u` | 30 | Korea, Japan, Hong Kong, Taiwan, Singapore, the Philippines, Indonesia, Vietnam, Thailand, India |
 | `sports.m3u` | 18 | Free sport |
 | `movies.m3u` | 13 | Free movie channels |
-| `entertainment.m3u` | 13 | General entertainment |
+| `entertainment.m3u` | 13 | Series and general entertainment |
 | `documentary.m3u` | 15 | Documentaries |
-| `kids.m3u` | 10 | Kids |
+| `kids.m3u` | 10 | Children's channels |
 | `music.m3u` | 15 | Music |
-| `everything.m3u` | 127 | The genre lists only, older file. Use `combined.m3u` |
+| `everything.m3u` | 127 | An older list. Please use `combined.m3u` instead |
 
 ## About the TV guide
 
-The files carry no EPG link on purpose. Free guide sources use different
-channel IDs from these playlists, so the guide would either stay blank or show
-the wrong programme. Wrong data is worse than none.
+The lists do not come with a TV guide. This was done on purpose.
 
-Channels play normally, the guide row will be mostly empty. You can add a guide
-by hand in TiviMate and it will match whatever it can.
+Free TV guides use different channel names from these lists. Because of this,
+the guide is often empty or shows the wrong programme. A wrong guide is worse
+than no guide.
 
-## Note
+The channels still play normally. Only the guide row will be mostly empty. If
+you want, you can add a TV guide yourself in TiviMate. It will show what it can
+match.
 
-Free streams rot. When channels stop working the files need rebuilding.
+## Please note
+
+Free channels sometimes stop working. When this happens, the lists are tested
+and built again. The addresses stay the same, so you do not need to add them
+again.

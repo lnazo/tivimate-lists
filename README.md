@@ -11,12 +11,30 @@ Plus, LG Channels, Vidaa and Xumo.
 All 242 channels in one file, split into 12 groups.
 
 ```
+https://cdn.jsdelivr.net/gh/lnazo/tivimate-lists@main/combined.m3u
+```
+
+Mirror, same file:
+
+```
 https://raw.githubusercontent.com/lnazo/tivimate-lists/main/combined.m3u
 ```
 
-Short form: `https://is.gd/lubatv`
-
 In TiviMate: Add playlist, M3U playlist, paste, Next.
+
+Do not use a URL shortener. Some players read the redirect page instead of the
+file behind it and end up with one channel.
+
+## If only one channel shows
+
+Try `test.m3u` first, it has 3 channels only:
+
+```
+https://cdn.jsdelivr.net/gh/lnazo/tivimate-lists@main/test.m3u
+```
+
+Al Jazeera English, SABC 1, KBS World. If that shows 3, the app is fine and the
+big file is the problem.
 
 ## Separate lists
 

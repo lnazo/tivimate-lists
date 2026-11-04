@@ -1,0 +1,67 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz"
+# asia - filtered live-checked list
+
+#EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="Asia",KBS World
+https://stream8.cinerama.uz/1448/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-name="Arirang TV HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Asia",Arirang TV HD
+https://freem3u.xyz/api/live/play.m3u8?vid=111
+#EXTINF:-1 tvg-id="ArirangUN.kr@SD" tvg-name="Arirang UN" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Asia",Arirang UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.kr@SD" tvg-name="KTV (South Korea)" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Asia",KTV (South Korea)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GugakTV.kr@SD" tvg-name="Gugak TV" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Asia",Gugak TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KRBC32000191N" tvg-name="CJ ENM MOVIE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20260623T003139SQUARE.png" group-title="Asia",CJ ENM MOVIE
+https://jmp2.uk/stvp-KRBC32000191N
+#EXTINF:-1 tvg-id="KR12000017G" tvg-name="Genie Movie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20260623T003145SQUARE.png" group-title="Asia",Genie Movie
+https://jmp2.uk/stvp-KR12000017G
+#EXTINF:-1 tvg-id="KRBD5200002XY" tvg-name="JTBC 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20260623T003159SQUARE.png" group-title="Asia",JTBC 골프
+https://jmp2.uk/stvp-KRBD5200002XY
+#EXTINF:-1 tvg-id="KRBC40000010R" tvg-name="EBS 극한 직업" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20261006T042815SQUARE.png" group-title="Asia",EBS 극한 직업
+https://jmp2.uk/stvp-KRBC40000010R
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-name="NHK World-Japan HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Asia",NHK World-Japan HD
+https://freem3u.xyz/api/live/play.m3u8?vid=106
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Asia",NHK World Premium
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp@JOJGDTV" tvg-name="NHK General TV JOJG-DTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Asia",NHK General TV JOJG-DTV
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-name="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Asia",Weathernews
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-name="TVBS-Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Asia",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Asia",RTHK TV 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk@SD" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/960px-ViuTV_logo.svg.png" group-title="Asia",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-name="Hakka TV" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="Asia",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-name="Taiwan Indigenous TV" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Asia",Taiwan Indigenous TV
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-name="CNA (Singapore)" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="Asia",CNA (Singapore)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" tvg-name="Asian Food Network Vietnam" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="Asia",Asian Food Network Vietnam
+https://freem3u.xyz/api/live/play.m3u8?vid=215
+#EXTINF:-1 tvg-id="INCTV.ph@SD" tvg-name="INC TV" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Asia",INC TV
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="SMNI.ph@SD" tvg-name="SMNI" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="Asia",SMNI
+https://stream.kdlc.click/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-name="Abante TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="Asia",Abante TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="BTV.id@SD" tvg-name="BTV (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="Asia",BTV (Indonesia)
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Asia",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Asia",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV4.vn@SD" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" group-title="Asia",HTV4
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 tvg-id="ONEChannel.vn@HD" tvg-name="ON E Channel" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab5%20-%20ON%20E%20Channel.png" group-title="Asia",ON E Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 tvg-id="DLTV1.th@SD" tvg-name="DLTV 1" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Asia",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="13SiamThai.th@SD" tvg-name="13 Siam Thai" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="Asia",13 Siam Thai
+https://live.x2.co.th/live/13livetv-th.m3u8
+#EXTINF:-1 tvg-id="IN38000050P" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261102T074435SQUARE.png" group-title="Asia",9XM
+https://jmp2.uk/stvp-IN38000050P
+#EXTINF:-1 tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20261026T044055SQUARE.png" group-title="Asia",Aaj Tak HD
+https://jmp2.uk/stvp-IN3800001ZH

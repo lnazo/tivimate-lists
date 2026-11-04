@@ -1,0 +1,53 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
+# mexico - filtered live-checked list
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Mexico",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-name="Canal 5 (Mexico) XET-TDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="Mexico",Canal 5 (Mexico) XET-TDT
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Mexico",Azteca 7
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-id="CanalOnce.mx@HD" tvg-name="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" group-title="Mexico",Canal Once
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-name="Imagen TV" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Mexico",Imagen TV
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-id="AzMundo.mx@SD" tvg-name="Az Mundo" tvg-logo="https://i.imgur.com/a7Ejid0.png" group-title="Mexico",Az Mundo
+http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-name="Az Cinema" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Mexico",Az Cinema
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
+#EXTINF:-1 tvg-id="TeleHit.mx@SD" tvg-name="TeleHit" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Mexico",TeleHit
+http://190.61.47.54:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-name="Bandamax" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Mexico",Bandamax
+http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Mexico",Distrito Comedia
+http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD" tvg-name="Tlnovelas Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Mexico",Tlnovelas Mexico
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Mexico",Claro Sports
+http://168.196.127.137:6001/play/a08r/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaPlus.mx@SD" tvg-name="De Pelicula Plus" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Mexico",De Pelicula Plus
+http://200.115.120.1:8000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-name="Milenio Television" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Mexico",Milenio Television
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 tvg-id="646ccc7a2858cb0008127367" tvg-name="Azteca UNO -1 hora" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-title="Mexico",Azteca UNO -1 hora
+https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" tvg-name="Azteca Deportes Premium" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Mexico",Azteca Deportes Premium
+https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
+#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" tvg-name="Imagen TV+" tvg-logo="https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png" group-title="Mexico",Imagen TV+
+https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
+#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" tvg-name="Canal 6 CdMX" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG_1785346412851.png" group-title="Mexico",Canal 6 CdMX
+https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
+#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" tvg-name="ADN Noticias" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG_1785346155200.png" group-title="Mexico",ADN Noticias
+https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
+#EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b" tvg-name="TeleFórmula" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="Mexico",TeleFórmula
+https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
+#EXTINF:-1 tvg-id="699f405a0c8827936bd287bf" tvg-name="Cinépolis Channel" tvg-logo="https://images.pluto.tv/channels/699f405a0c8827936bd287bf/colorLogoPNG_1774560648913.png" group-title="Mexico",Cinépolis Channel
+https://jmp2.uk/plu-699f405a0c8827936bd287bf.m3u8
+#EXTINF:-1 tvg-id="67813f893886aa863497733d" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png" group-title="Mexico",Red Bull TV
+https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FilmRise Series gratis Mexico (MX)" tvg-logo="" group-title="Mexico",FilmRise Series gratis Mexico (MX)
+https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887709&ads.xumo_streamId=88887709&ads.csid=vidaa_mx_filmriseseriesspanish_ssai&ads.caid=FilmriseSeriesSpanish&ads.appName=%7BADS.APP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmriseSeriesSpanish&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads.xumo_providerId=260&ads.xumo_providerName=Filmrise&ads.client_section=filmrise_filmrise_series_gratis&ads.vidaa_providername=FilmRise&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1696
+#EXTINF:-1 tvg-id="" tvg-name="FIFA+ (MX)" tvg-logo="" group-title="Mexico",FIFA+ (MX)
+https://f55e86ee.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtbXhfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8?ads.wurl_channel=1855&ads.wurl_name=FIFAPlusSpanish&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7220
+#EXTINF:-1 tvg-id="" tvg-name="Xumo Películas Gratis (MX)" tvg-logo="" group-title="Mexico",Xumo Películas Gratis (MX)
+https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887704&ads.xumo_streamId=88887704&ads.csid=vidaa_mx_peliculasgratis_ssai&ads.caid=PeliculasGratis&ads.appName=%7BADS.APP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_contentId=5&ads.xumo_contentName=PeliculasGratis&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads.xumo_providerId=5&ads.xumo_providerName=Xumo&ads.client_section=xumo_peliculasgratis&ads.vidaa_providername=xumo&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1718

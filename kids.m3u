@@ -1,0 +1,27 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+# kids - filtered live-checked list
+
+#EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Education",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-name="Kartoon Channel!" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel!
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyKids.us@SD" tvg-name="HappyKids" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="Kids",HappyKids
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="SuperSimpleSongs.us@SD" tvg-name="Super Simple Songs" tvg-logo="https://i.imgur.com/3k4F7O9.png" group-title="Kids",Super Simple Songs
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RyanandFriends.us@SD" tvg-name="Ryan and Friends" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="Kids",Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us@SD" tvg-name="Brat TV" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-name="Lego Channel" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Kids",Lego Channel
+https://dltiqboxjw21d.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-name="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="pocketwatch.us@SD" tvg-name="pocket.watch" tvg-logo="https://i.imgur.com/T0V90Lz.png" group-title="Kids",pocket.watch
+https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@Panregional" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation",Tooncast
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland" tvg-name="Cartoonito CEE Poland" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Kids",Cartoonito CEE Poland
+http://92.114.85.87:8007/play/a008

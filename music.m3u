@@ -1,0 +1,35 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+# music - filtered live-checked list
+
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@US" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+#EXTINF:-1 tvg-id="NOWRock.uk@SD" tvg-name="NOW Rock" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-name="Qello Concerts by Stingray" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-name="Mezzo Live" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Music",Mezzo Live
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 tvg-id="YoMTV.us@SD" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png" group-title="Music",Yo! MTV
+https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
+#EXTINF:-1 tvg-id="360TuneBox.nl@SD" tvg-name="360TuneBox" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Music",360TuneBox
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="PartyMix.ro@HD" tvg-name="Party Mix HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj" group-title="Music",Party Mix HD
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" tvg-name="Afrobeat TV Entertainment" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music",Afrobeat TV Entertainment
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="BestofDanceTV.ee@SD" tvg-name="Best of Dance TV" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="Music",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us@SD" tvg-name="California Music Channel" tvg-logo="https://i.imgur.com/FyNot5W.png" group-title="Music",California Music Channel
+https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee@SD" tvg-name="DanceTV Deep House District" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" group-title="Music",DanceTV Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de@SD" tvg-name="Deluxe Dance" tvg-logo="https://i.imgur.com/Qu7t15Y.png" group-title="Music",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="HarmonyGospelMusicTV.us@SD" tvg-name="Harmony Gospel Music TV" tvg-logo="https://i.imgur.com/iDiGBE3.png" group-title="Music",Harmony Gospel Music TV
+https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
+#EXTINF:-1 tvg-id="Live99FM.bq@SD" tvg-name="Live99FM" tvg-logo="https://i.imgur.com/U43UrQT.png" group-title="Music",Live99FM
+https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="LIVExLIVE.us@SD" tvg-name="LIVExLIVE" tvg-logo="https://i.imgur.com/KFzEoed.png" group-title="Music",LIVExLIVE
+https://livestream.liveone.com/lc1/p1.m3u8
+#EXTINF:-1 tvg-id="MBCAmerica.us@SD" tvg-name="MBC America" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture",MBC America
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8

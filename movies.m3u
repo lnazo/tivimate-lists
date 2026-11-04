@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+# movies - filtered live-checked list
+
+#EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IFC.us@East" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Movies",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-id="DUST.us@SD" tvg-name="DUST" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",DUST
+https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Charge.us@SD" tvg-name="Charge!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Charge!_network_logo.png/revision/latest/scale-to-width-down/512/" group-title="Movies",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="GritXtra.us@SD" tvg-name="Grit Xtra" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png" group-title="Entertainment",Grit Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us@SD" tvg-name="Gravitas Movies" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Movies",Gravitas Movies
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" tvg-name="Hallmark Movies & More" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="Movies",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-id="ShoutFactoryTV.us@SD" tvg-name="Shout! Factory TV" tvg-logo="https://i.imgur.com/AgoGr6y.png" group-title="General",Shout! Factory TV
+https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
+#EXTINF:-1 tvg-id="OuterSphere.us@SD" tvg-name="OuterSphere" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="Movies",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us@SD" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="Movies",Ebony TV by Lionsgate
+https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 tvg-id="AlloCine.cm@SD" tvg-name="Allo Cine" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg" group-title="Movies",Allo Cine
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-id="CINDIETV.br@HD" tvg-name="CINDIE TV" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png" group-title="Movies",CINDIE TV
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl@HD" tvg-name="FILMBOX+ Festival HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" group-title="Movies",FILMBOX+ Festival HD
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us@SD" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="Movies",Maverick Black Cinema
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8

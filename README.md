@@ -1,14 +1,15 @@
 # TiviMate playlists
 
 Small, tested M3U playlists for Android TV. Every stream answered when tested
-before being added.
+before being added. Secure (https) streams only: Android TV apps often refuse
+plain http streams, so those channels would list but not play.
 
 Channels come mostly from the iptv-org project and free services such as Pluto TV, Samsung TV
 Plus, LG Channels, Vidaa and Xumo.
 
 ## One address for everything
 
-All 242 channels in one file, split into 12 groups.
+All 215 channels in one file, split into 12 groups.
 
 ```
 https://cdn.jsdelivr.net/gh/lnazo/tivimate-lists@main/combined.m3u
@@ -40,19 +41,19 @@ big file is the problem.
 
 | File | Channels | Content |
 |---|---|---|
-| `news.m3u` | 30 | World news in English |
+| `news.m3u` | 26 | World news in English |
 | `south-africa.m3u` | 17 | South Africa, SABC included |
 | `us.m3u` | 28 | US networks and free channels |
 | `canada.m3u` | 21 | CBC, Global, CTV, Radio-Canada |
-| `mexico.m3u` | 25 | Las Estrellas, Azteca, Canal Once, Telehit |
-| `asia.m3u` | 32 | Korea, Japan, HK, Taiwan, Singapore, PH, ID, VN, TH, India |
-| `sports.m3u` | 20 | Free sport |
-| `movies.m3u` | 14 | Free movie channels |
-| `entertainment.m3u` | 18 | General entertainment |
-| `documentary.m3u` | 16 | Documentaries |
-| `kids.m3u` | 12 | Kids |
-| `music.m3u` | 16 | Music |
-| `everything.m3u` | 143 | All the genre lists combined |
+| `mexico.m3u` | 15 | Las Estrellas, Azteca UNO, Canal Once, Imagen TV |
+| `asia.m3u` | 30 | Korea, Japan, HK, Taiwan, Singapore, PH, ID, VN, TH, India |
+| `sports.m3u` | 18 | Free sport |
+| `movies.m3u` | 13 | Free movie channels |
+| `entertainment.m3u` | 13 | General entertainment |
+| `documentary.m3u` | 15 | Documentaries |
+| `kids.m3u` | 10 | Kids |
+| `music.m3u` | 15 | Music |
+| `everything.m3u` | 127 | The genre lists only, older file. Use `combined.m3u` |
 
 ## About the TV guide
 

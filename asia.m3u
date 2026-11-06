@@ -1,61 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="Asia",KBS World
+#EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="Korea & Japan",KBS World
 https://stream8.cinerama.uz/1448/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-name="Arirang TV HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Asia",Arirang TV HD
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Korea & Japan",Arirang TV
 https://freem3u.xyz/api/live/play.m3u8?vid=111
-#EXTINF:-1 tvg-id="ArirangUN.kr@SD" tvg-name="Arirang UN" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Asia",Arirang UN
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV.kr@SD" tvg-name="KTV (South Korea)" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Asia",KTV (South Korea)
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugakTV.kr@SD" tvg-name="Gugak TV" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Asia",Gugak TV
-https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KRBC32000191N" tvg-name="CJ ENM MOVIE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20260623T003139SQUARE.png" group-title="Asia",CJ ENM MOVIE
-https://jmp2.uk/stvp-KRBC32000191N
-#EXTINF:-1 tvg-id="KR12000017G" tvg-name="Genie Movie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20260623T003145SQUARE.png" group-title="Asia",Genie Movie
-https://jmp2.uk/stvp-KR12000017G
-#EXTINF:-1 tvg-id="KRBD5200002XY" tvg-name="JTBC 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20260623T003159SQUARE.png" group-title="Asia",JTBC 골프
-https://jmp2.uk/stvp-KRBD5200002XY
-#EXTINF:-1 tvg-id="KRBC40000010R" tvg-name="EBS 극한 직업" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20261006T042815SQUARE.png" group-title="Asia",EBS 극한 직업
-https://jmp2.uk/stvp-KRBC40000010R
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-name="NHK World-Japan HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Asia",NHK World-Japan HD
-https://freem3u.xyz/api/live/play.m3u8?vid=106
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Asia",NHK World Premium
+#EXTINF:-1 tvg-id="KRBD2400001XD" tvg-name="YTN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20260422T013918SQUARE.png" group-title="Korea & Japan",YTN
+https://jmp2.uk/stvp-KRBD2400001XD
+#EXTINF:-1 tvg-id="KR5100001TH" tvg-name="KBS News 24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5100001TH_20260901T053911SQUARE.png" group-title="Korea & Japan",KBS News 24
+https://jmp2.uk/stvp-KR5100001TH
+#EXTINF:-1 tvg-id="KR4500008DI" tvg-name="SBS News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500008DI_20260901T053931SQUARE.png" group-title="Korea & Japan",SBS News
+https://jmp2.uk/stvp-KR4500008DI
+#EXTINF:-1 tvg-id="KRBC46000173Y" tvg-name="JTBC News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20260422T013552SQUARE.png" group-title="Korea & Japan",JTBC News
+https://jmp2.uk/stvp-KRBC46000173Y
+#EXTINF:-1 tvg-id="KRBB4200002MM" tvg-name="Running Man (SBS)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20260422T013232SQUARE.png" group-title="Korea & Japan",Running Man (SBS)
+https://jmp2.uk/stvp-KRBB4200002MM
+#EXTINF:-1 tvg-id="KRBB5000069BS" tvg-name="Infinite Challenge (MBC)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20260422T012440SQUARE.png" group-title="Korea & Japan",Infinite Challenge (MBC)
+https://jmp2.uk/stvp-KRBB5000069BS
+#EXTINF:-1 tvg-id="KRBC200002I0" tvg-name="I Live Alone (MBC)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20261006T042849SQUARE.png" group-title="Korea & Japan",I Live Alone (MBC)
+https://jmp2.uk/stvp-KRBC200002I0
+#EXTINF:-1 tvg-id="KRBC4400003SD" tvg-name="2 Days 1 Night (KBS)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20260422T013634SQUARE.png" group-title="Korea & Japan",2 Days 1 Night (KBS)
+https://jmp2.uk/stvp-KRBC4400003SD
+#EXTINF:-1 tvg-id="KR4500001KZ" tvg-name="MBC Drama Clips" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500001KZ_20260422T012505SQUARE.png" group-title="Korea & Japan",MBC Drama Clips
+https://jmp2.uk/stvp-KR4500001KZ
+#EXTINF:-1 tvg-id="KR4500003V9" tvg-name="SBS Drama Clips" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500003V9_20260422T012511SQUARE.png" group-title="Korea & Japan",SBS Drama Clips
+https://jmp2.uk/stvp-KR4500003V9
+#EXTINF:-1 tvg-id="KRBC3200014XZ" tvg-name="tvN Story" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20260422T013931SQUARE.png" group-title="Korea & Japan",tvN Story
+https://jmp2.uk/stvp-KRBC3200014XZ
+#EXTINF:-1 tvg-id="GB1000001G0" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1000001G0_20260929T041621SQUARE.png" group-title="Korea & Japan",SMTOWN
+https://jmp2.uk/stvp-GB1000001G0
+#EXTINF:-1 tvg-id="CA3900002PM" tvg-name="K-Pop by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3900002PM_20260915T034536SQUARE.png" group-title="Korea & Japan",K-Pop by CJ ENM
+https://jmp2.uk/stvp-CA3900002PM
+#EXTINF:-1 tvg-id="CA2000005K2" tvg-name="Genie K-Movie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000005K2_20260819T010732SQUARE.png" group-title="Korea & Japan",Genie K-Movie
+https://jmp2.uk/stvp-CA2000005K2
+#EXTINF:-1 tvg-id="RakutenViki.tv" tvg-name="Rakuten Viki" tvg-logo="" group-title="Korea & Japan",Rakuten Viki
+https://65a839581e564abda9fb4853bc82e0ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vidaa-ca_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9096
+#EXTINF:-1 tvg-id="KDramaRomCom.tv" tvg-name="K-Drama RomCom" tvg-logo="" group-title="Korea & Japan",K-Drama RomCom
+https://9e32c85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtY2FfUm9tQ29tS0RyYW1hX0hMUw/playlist.m3u8?ads.wurl_channel=1756&ads.wurl_name=RomComKDrama&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9054
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Korea & Japan",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp@JOJGDTV" tvg-name="NHK General TV JOJG-DTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Asia",NHK General TV JOJG-DTV
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp@JOJGDTV" tvg-name="NHK General TV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Korea & Japan",NHK General TV
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
-#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-name="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Asia",Weathernews
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-name="Weathernews" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Korea & Japan",Weathernews
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Asia",RTHK TV 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-name="Hakka TV" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="Asia",Hakka TV
-https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
-#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-name="Taiwan Indigenous TV" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="Asia",Taiwan Indigenous TV
-https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-name="CNA (Singapore)" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="Asia",CNA (Singapore)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" tvg-name="Asian Food Network Vietnam" tvg-logo="https://i.imgur.com/pux6WN8.png" group-title="Asia",Asian Food Network Vietnam
-https://freem3u.xyz/api/live/play.m3u8?vid=215
-#EXTINF:-1 tvg-id="INCTV.ph@SD" tvg-name="INC TV" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Asia",INC TV
-https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
-#EXTINF:-1 tvg-id="SMNI.ph@SD" tvg-name="SMNI" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="Asia",SMNI
-https://stream.kdlc.click/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-name="Abante TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="Asia",Abante TV
-https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-id="BTV.id@SD" tvg-name="BTV (Indonesia)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="Asia",BTV (Indonesia)
-https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Asia",Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Asia",Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV4.vn@SD" tvg-name="HTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" group-title="Asia",HTV4
-https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 tvg-id="ONEChannel.vn@HD" tvg-name="ON E Channel" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab5%20-%20ON%20E%20Channel.png" group-title="Asia",ON E Channel
-https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="DLTV1.th@SD" tvg-name="DLTV 1" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Asia",DLTV 1
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 tvg-id="13SiamThai.th@SD" tvg-name="13 Siam Thai" tvg-logo="https://i.imgur.com/FvEp1S2.png" group-title="Asia",13 Siam Thai
-https://live.x2.co.th/live/13livetv-th.m3u8
-#EXTINF:-1 tvg-id="IN38000050P" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261102T074435SQUARE.png" group-title="Asia",9XM
+#EXTINF:-1 tvg-id="AajTak.in@HD" tvg-name="Aaj Tak" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="India",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-name="India Today" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png" group-title="India",India Today
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
+#EXTINF:-1 tvg-id="NDTV.in@SD" tvg-name="NDTV 24x7" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Ndtv-logo-new.svg/1280px-Ndtv-logo-new.svg.png" group-title="India",NDTV 24x7
+https://cdn.pishow.tv/ott/live/315/master.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-name="NDTV India" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" group-title="India",NDTV India
+https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-name="ABP News" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" group-title="India",ABP News
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+#EXTINF:-1 tvg-id="INBA4900020A5" tvg-name="Republic TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20260623T013003SQUARE.png" group-title="India",Republic TV
+https://jmp2.uk/stvp-INBA4900020A5
+#EXTINF:-1 tvg-id="INBD1300009QZ" tvg-name="CNN-News18" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20260915T042122SQUARE.png" group-title="India",CNN-News18
+https://jmp2.uk/stvp-INBD1300009QZ
+#EXTINF:-1 tvg-id="News18India.in@SD" tvg-name="News18 India" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png" group-title="India",News18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in@SD" tvg-name="TV9 Bharatvarsh" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_BHARATVARSH/images/LOGO_HD/image.png" group-title="India",TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="IN38000050P" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261102T074435SQUARE.png" group-title="India",9XM
 https://jmp2.uk/stvp-IN38000050P
-#EXTINF:-1 tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20261026T044055SQUARE.png" group-title="Asia",Aaj Tak HD
-https://jmp2.uk/stvp-IN3800001ZH
+#EXTINF:-1 tvg-id="B4UMovies.tv" tvg-name="B4U Movies" tvg-logo="" group-title="India",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TTVNews.tw@SD" tvg-name="TTV News" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Asia (Other)",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-name="Channel 5 Singapore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="Asia (Other)",Channel 5 Singapore
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-id="Channel8.sg@SD" tvg-name="Channel 8 Singapore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/960px-Mediacorp_Channel_8_2023.svg.png" group-title="Asia (Other)",Channel 8 Singapore
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="ThaiPBS.th@SD" tvg-name="Thai PBS" tvg-logo="https://i.imgur.com/CwalZjr.png" group-title="Asia (Other)",Thai PBS
+https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
+#EXTINF:-1 tvg-id="WorkpointTV.th@SD" tvg-name="Workpoint TV" tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Asia (Other)",Workpoint TV
+https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
+#EXTINF:-1 tvg-id="ThairathTV.th@SD" tvg-name="Thairath TV" tvg-logo="https://i.imgur.com/qIorZoy.png" group-title="Asia (Other)",Thairath TV
+https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV7.vn@SD" tvg-name="HTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" group-title="Asia (Other)",HTV7
+https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Asia (Other)",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8

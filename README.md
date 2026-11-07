@@ -11,7 +11,7 @@ Free TV channels for Android TV. The lists are made for the TiviMate app.
 
 ## How to add the channels
 
-This one address has all 303 channels, sorted into 20 groups:
+This one address has all 319 channels, sorted into 21 groups:
 
 ```
 https://cdn.jsdelivr.net/gh/lnazo/tivimate-lists@main/combined.m3u
@@ -68,7 +68,8 @@ https://cdn.jsdelivr.net/gh/lnazo/tivimate-lists@main/south-africa.m3u
 | `entertainment.m3u` | 60 | Drama, reality and game shows, comedy, food and lifestyle |
 | `true-crime.m3u` | 13 | Forensic Files, Dateline, 48 Hours and more |
 | `documentary.m3u` | 17 | Nature, history and science |
-| `kids.m3u` | 29 | Children's channels and anime |
+| `kids.m3u` | 45 | Children's channels, cartoons and anime |
+| `cartoons.m3u` | 22 | Cartoons, like SpongeBob, Rugrats, Avatar and The Smurfs |
 | `music.m3u` | 22 | MTV, Vevo, Stingray, Trace |
 | `us.m3u` | 10 | American network and local news channels |
 | `canada.m3u` | 12 | CBC, Global, CTV, Radio-Canada |
